@@ -1,0 +1,18 @@
+# Logs & PID
+*.log
+*.pid
+*.tmp
+temp_*
+
+# OS & Backups
+*.backup
+*.bak
+.DS_Store
+Thumbs.db
+
+# Databases & WAL
+*.db-shm
+*.db-wal
+
+# Node
+node_modules/
